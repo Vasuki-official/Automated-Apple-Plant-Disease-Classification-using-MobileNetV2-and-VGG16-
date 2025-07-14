@@ -67,7 +67,7 @@ Apple plants are highly susceptible to various diseases such as Black Rot, Scab,
     Metric	         Sequential CNN	        MobileNetV2   	VGG16
     Accuracy (%)	        98.63	           99.26	    99.13
     Validation Accuracy (%)	96.24	           99.18	    98.35
-    Validation Loss	        14.10	           3.08	         5.34
+    Validation Loss	        14.10	           3.08	          5.34
 
 **Best Performer**: MobileNetV2 showed the highest validation accuracy and lowest validation loss, making it a suitable choice for real-time field applications.
 
